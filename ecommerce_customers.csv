@@ -1,0 +1,201 @@
+customer_id,customer_name,email,phone_number,city,gender,signup_date
+1,Carolyn Ortiz,jameslarsen@andersen.com,158.169.1187x566,Kano,Female,2024-10-04
+2,Jonathan Kim,quinnmichael@holt.com,123-402-9208x4778,,,2023-07-24
+3,Louis Ruiz,mullenmary@garcia.com,(542)561-3403x3630,Abuja,,2025-06-20
+4,Teresa Castillo,murraygregory@lopez-bailey.com,837.920.0294x6636,,,2025-02-21
+5,Ruth Montgomery,tarameyer@price.biz,117-242-8219,Lagos,Male,2025-04-18
+6,Anthony Vasquez MD,alopez@gmail.com,132.821.2786x848,Ibadan,Male,2025-10-16
+7,Nancy Leach,carlywagner@gonzalez.com,185-135-6431,Abuja,Male,2026-01-24
+8,Victoria Miller,wilsonricky@gmail.com,001-296-092-1572x4856,Abuja,Male,2023-08-16
+9,Evan Evans,jamiesanchez@gmail.com,001-434-817-2633,Lagos,Male,2025-12-14
+10,Louis Spencer,lsmith@richardson-caldwell.com,+1-679-858-9925,Port Harcourt,,2026-03-20
+11,Sherry Martinez,bzhang@fowler.info,(767)491-3846x6773,Abuja,,2024-01-03
+12,Holly Richardson,jonathan90@richardson-griffith.com,020-664-9903,Port Harcourt,Female,2025-05-22
+13,Tyrone Robertson,tiffanyhenson@yahoo.com,246.749.2779,Abuja,,2025-11-19
+14,Julie Franco,smithmelanie@yahoo.com,745137027,,Female,2026-02-22
+15,Douglas Pearson,estradacharles@jackson.org,923-248-5164x01800,,Male,2024-10-08
+16,David Miller,campbellmolly@anderson-combs.info,,Kano,,2025-07-17
+17,Amanda Guzman,scottlee@alvarez.net,580.838.6996,,Female,2026-02-06
+18,Amy Vaughan,missing_email,+1-700-705-9293x23197,Lagos,Female,2025-06-03
+19,John Cook,mcdonaldmitchell@kelly.org,2916013626,Abuja,Male,2026-03-04
+20,Keith Romero,andrew93@gmail.com,167-491-8074x170,,,2025-01-28
+21,William Wheeler,turnerbrian@hernandez.info,+1-791-543-2786x019,Port Harcourt,Female,2026-03-13
+22,Stacey Johnson,mariabaxter@gmail.com,,,,2024-03-28
+23,Anna Byrd,laura00@doyle.com,+1-669-771-2245,,,2024-05-19
+24,Joseph Burch,vjohnson@yahoo.com,,Abuja,,2025-06-29
+25,Johnny Foster,nancy12@johnson.com,733.492.1296,Lagos,Female,2026-01-13
+26,Nathan Hansen,angelgentry@hotmail.com,,Lagos,,2024-08-23
+27,Ethan Cox,patrick19@gmail.com,(526)284-6279x37600,Abuja,Male,2025-03-19
+28,Nicole Rodriguez,pamelabartlett@yahoo.com,777.757.6120x383,Ibadan,Male,2024-05-04
+29,Adrian Kim,jevans@manning.net,(203)601-4213x79076,,,2025-02-28
+30,Dr. Jennifer Jensen,stephen25@harris-hall.com,038-720-9685,Port Harcourt,,2026-02-22
+31,James Myers,emily11@perez-barrera.com,001-334-605-1707x82032,,,2025-04-25
+32,April Downs,ncurtis@mcintyre-waters.com,787-942-5435,Port Harcourt,Male,2024-05-02
+33,Deanna King,timothymyers@gmail.com,,Abuja,Male,2025-01-11
+34,Holly Martinez,missing_email,(488)165-3594,Abuja,,2024-01-24
+35,Kristin Park,ashleylambert@mckinney-flores.com,001-868-071-3265,Lagos,Male,2025-09-24
+36,Carlos Maldonado,klinemelissa@willis.com,966.942.2332x600,Lagos,,2024-07-28
+37,Jason Allen,jimmyhouston@hotmail.com,293.660.8755x8275,,,2026-03-06
+38,Tina Wallace,prestoncameron@gmail.com,962-040-6727x6365,Ibadan,Male,2024-01-12
+39,Paula Williams,nwest@madden.com,084-630-7699x56583,Ibadan,Male,2026-02-15
+40,Lisa Huerta,sallyellis@hotmail.com,+1-654-405-0587,Abuja,Female,2026-04-09
+41,George Chase,usantiago@hotmail.com,038.598.0502,Abuja,Male,2023-11-05
+42,Susan Taylor,zanderson@gmail.com,5016834179,Kano,Male,2023-09-15
+43,Eric Wilson,bcruz@hotmail.com,721.244.9665x428,,Female,2023-06-13
+44,Dr. Amy Thomas,dorseyjames@yahoo.com,001-203-144-9524x04174,Port Harcourt,Female,2023-06-27
+45,William Maldonado,steelerichard@gillespie-henderson.biz,(766)535-2963x80431,Lagos,,2026-04-28
+46,Alyssa Brown,harveyjoshua@gmail.com,833-239-2354,Ibadan,Male,2025-04-10
+47,Lawrence Torres,glenncampbell@patrick-ellison.com,+1-686-989-3591x6504,Port Harcourt,Male,2025-01-08
+48,Erik Velez,terryalexander@maddox.biz,,,Male,2024-10-05
+49,Vincent Bradford IV,connie34@gmail.com,,Port Harcourt,Female,2025-05-26
+50,Jason Garcia,angela12@bartlett-white.biz,381.538.4616,,Male,2025-10-15
+51,Blake Armstrong,charlesharris@gmail.com,001-000-974-3243,Lagos,Male,2024-04-15
+52,Arthur Obrien,kelly44@harris.com,+1-330-290-3241x94608,Lagos,Female,2025-08-23
+53,Stephen Young,romeromarc@hill.biz,,Abuja,Male,2025-10-28
+54,Mrs. Cassidy Miller,marylandry@arnold.com,,Abuja,,2026-04-03
+55,Chad Chambers,missing_email,81174988,Abuja,,2025-04-07
+56,Teresa Pierce,deborahgreen@gmail.com,899.222.8933x125,Kano,,2024-10-15
+57,James Bennett,smckinney@hotmail.com,652.988.8130x31061,,,2024-12-11
+58,Alexander Wright,huynhscott@hotmail.com,484.623.3344,Kano,Female,2023-10-08
+59,Harold May,ashley54@yahoo.com,(300)391-2054x3238,Kano,,2026-02-18
+60,Sara Rowe,eric99@anderson-davis.org,+1-138-951-9311,,Male,2025-01-07
+61,Nancy Rogers,shermanwendy@johnson.org,+1-823-652-5962x038,Lagos,Male,2025-10-28
+62,Danielle Jimenez,tina65@yahoo.com,846.012.9472x45627,Kano,Female,2024-02-21
+63,David Byrd,kjohnson@yahoo.com,932-724-0020,,,2024-08-19
+64,Melissa Fox,zwhite@flores.biz,,Kano,Male,2026-01-03
+65,Darryl Johnson,wrightmichael@juarez.info,790-439-6165x8248,Abuja,Female,2025-05-08
+66,Daniel Herrera,eflowers@miles.com,(099)428-0772,Ibadan,Male,2025-01-29
+67,Joseph Ellison MD,powellroger@wheeler-patel.com,001-600-512-4706x1299,Lagos,Female,2025-01-26
+68,Melissa Vazquez,missing_email,167-568-1931,Port Harcourt,,2024-04-03
+69,Brenda Smith,carpenterdaniel@gmail.com,864-099-0362,,Male,2025-04-22
+70,Jason Fields,missing_email,,Port Harcourt,Male,2025-12-26
+71,Julie Smith,solisdavid@yahoo.com,918-032-1506,Ibadan,Female,2026-01-25
+72,Robert Howard,janetcarter@bell.com,(690)789-5831,Lagos,,2023-06-30
+73,Denise Smith,ricky50@hernandez.com,,,Male,2024-11-09
+74,Ms. Amber Riddle,keithcarter@anderson-perez.info,745.506.3574x65132,Abuja,,2025-09-05
+75,Kylie Wagner,sierraadams@sloan.com,8652263398,,Female,2025-10-10
+76,Steven Glenn,newmankevin@harper.com,111.416.1396x865,,,2024-02-18
+77,Kathryn Wright,colelopez@gmail.com,991.839.6009x89722,Ibadan,,2024-02-29
+78,Dawn Roberts,antonio05@hill.biz,001-015-0330x0038,Port Harcourt,Female,2026-03-06
+79,Casey Gonzales,andersonteresa@melton.com,,Abuja,Female,2024-10-17
+80,Ian Williams,michelle22@russell.info,001-741-427-2055,Lagos,Female,2025-02-28
+81,Donald Hamilton,wilsongeorge@hotmail.com,001-719-094-8948,Kano,,2025-01-07
+82,Joan Hernandez,nancy45@gmail.com,944-494-8738,Abuja,,2024-11-04
+83,Jeffrey Walker,nicholas48@hotmail.com,8932109774,,,2026-01-12
+84,Francis Lawson,sandovalchristine@downs-walls.info,001-046-988-3460x00614,Kano,Female,2025-12-04
+85,Christopher Jackson,tparker@carpenter.org,140-876-9761x24280,Ibadan,,2026-03-16
+86,Jacob Reyes,amanda91@cooper-nguyen.com,847.683.0349,,Male,2025-09-26
+87,Penny Mooney,knoxbrenda@hotmail.com,103.546.1926,,Female,2025-05-21
+88,Amanda Morales,ucrawford@singh-wilkerson.com,(016)649-3509x5698,,Male,2025-06-30
+89,Joseph Abbott,thomasromero@parker.com,977.263.5587x9178,Lagos,Female,2023-09-02
+90,Cameron David,sgarcia@yahoo.com,001-261-536-6951x26254,Kano,,2023-08-26
+91,Laurie Hall,josejensen@gmail.com,+1-533-011-1210x169,Port Harcourt,Male,2024-09-16
+92,Michael Roberts,vgibson@hotmail.com,(031)636-6812x41155,Kano,Female,2025-05-22
+93,Cody Larson,beckychapman@hotmail.com,+1-303-015-2195x7249,Port Harcourt,,2026-01-27
+94,Kelly Hansen,stephanie50@adams.org,,Ibadan,Male,2024-02-16
+95,Amy Hicks,ruthwall@james-wilson.com,693-531-9274x84573,,Male,2024-07-18
+96,Erica Marquez,gregory69@hampton.info,121-146-7136x257,Abuja,Female,2025-01-16
+97,Mike Walsh,vincentking@jones.net,+1-406-234-4104x797,Lagos,,2023-11-27
+98,William Elliott,robinwright@smith-fields.com,673-336-4322x8885,Kano,Male,2024-03-06
+99,Carolyn Woodard,bakersamuel@hotmail.com,+1-132-473-5727,Lagos,Female,2024-01-09
+100,Darren Acevedo,jennifer50@gmail.com,001-290-988-6468x734,Lagos,,2026-02-06
+101,Jamie Brown,nicholasmonroe@yahoo.com,330.596.2767,Lagos,Female,2025-06-19
+102,Lindsay Murray,martin60@young-moore.com,932-143-4397x666,Abuja,Female,2023-11-22
+103,Tyler Adams,hortonchristopher@yahoo.com,001-795-482-5174,Ibadan,Male,2026-01-28
+104,Amanda Huynh,zguzman@green.com,(099)626-4050x261,Port Harcourt,,2025-10-26
+105,Manuel Melton,missing_email,510.483.8173x837,Port Harcourt,Female,2023-09-26
+106,David Scott,adamslisa@mueller.com,+1-965-844-7483x9767,Ibadan,,2023-09-19
+107,Alexis Torres,nhenderson@gmail.com,,Ibadan,Female,2023-05-30
+108,Keith Wilson,marissa24@gray-walters.com,348.409.5455,Kano,Male,2025-05-17
+109,Shannon Maddox,shannonpierce@gmail.com,591-926-2451x705,Ibadan,Male,2025-04-17
+110,Curtis Lopez,webbbrett@lopez.com,(431)602-1887x291,Lagos,Male,2024-01-13
+111,Christopher Hanna,richardsontiffany@molina-lewis.com,328.052.9127x728,,Female,2025-05-02
+112,Jose Lee,wheelernicole@yahoo.com,001-444-748-1431x17189,Ibadan,Female,2025-05-19
+113,Matthew Scott,amandacooper@morrow-espinoza.com,+1-962-313-5114x78198,Ibadan,,2024-08-24
+114,Andrea Allen,missing_email,329-157-9247x5224,Lagos,Male,2024-04-03
+115,Mathew Reed,patrick56@livingston.com,559.296.6868,,,2025-08-17
+116,Brandon Brown,janesteele@hotmail.com,833.448.2424,Kano,Male,2025-09-29
+117,Martha King,jacob89@hotmail.com,630.149.0058x869,Abuja,Female,2026-01-22
+118,Philip Brown MD,rbailey@hoffman.com,+1-579-546-4876x9523,Abuja,Female,2024-02-04
+119,Bobby Wright,ryoung@dunn.com,,Abuja,,2025-03-28
+120,Katrina Jimenez,karen59@lee.com,273.914.7761,Port Harcourt,Male,2025-03-08
+121,Courtney Clark,missing_email,038-663-2032,,Male,2026-04-30
+122,Mrs. Mary Reynolds,matthewblack@thomas.com,237.685.2349x766,Lagos,Female,2026-05-08
+123,Maria Medina,missing_email,+1-845-882-6395x92099,Kano,Female,2025-05-05
+124,Sandy Maxwell,haleamanda@yahoo.com,001-300-025-1366x92253,Kano,Female,2025-09-16
+125,Kayla Smith,riverakaylee@hotmail.com,,Ibadan,,2023-10-23
+126,Dr. Jesse Washington,zcannon@yahoo.com,427.571.1628,Abuja,Female,2025-01-20
+127,Erika Johnston,timothyramirez@gmail.com,001-238-665-0189x8714,Abuja,,2023-12-06
+128,Tyler Harvey,shepherdapril@james.biz,+1-351-223-1286x1667,Ibadan,Female,2023-05-30
+129,John Harris,millercatherine@harvey-sosa.com,(916)500-8396,Ibadan,Male,2025-03-15
+130,Kristin Washington,michaellaura@santiago.info,752-434-4547x66640,,,2023-06-04
+131,Mikayla Trevino,nallen@ramirez.com,(143)272-3584x7810,Port Harcourt,,2024-09-20
+132,Stephanie Finley,kelly33@yahoo.com,,Port Harcourt,Female,2025-08-18
+133,Isaac Payne,tiffanyholmes@miller-thomas.com,5633705295,Abuja,Female,2026-01-21
+134,Eugene Harris,jennifersalazar@sanchez-chan.biz,360.311.4351,Ibadan,Male,2026-03-20
+135,Victor Tucker,bryan24@cochran.com,192-976-5077,Kano,Female,2023-12-27
+136,Mackenzie Jacobs,mitchellnorris@yahoo.com,231.511.2193,,,2025-05-30
+137,Rachel Burnett,melanievazquez@pacheco.com,(635)978-9520,Abuja,,2026-03-09
+138,Richard Larsen,simonstacie@tucker-shah.com,(952)868-9732x88751,Ibadan,Female,2025-09-18
+139,Brenda Flores,zacharyhenry@newton.biz,001-325-006-3432,Ibadan,Male,2026-05-09
+140,Susan Salinas,kenneth19@gmail.com,448-171-0106x996,,Female,2023-07-26
+141,Tony Campbell,todd34@wagner-joseph.com,874-660-6977x87224,Kano,Female,2024-09-03
+142,Jerome Mccarthy,batesjuan@yahoo.com,+1-693-058-3238x7128,Abuja,Male,2025-05-22
+143,Lindsey Buckley,samuel06@edwards.com,347803346,Abuja,Female,2024-10-12
+144,Scott Whitehead,missing_email,650-795-5992,Port Harcourt,,2024-09-07
+145,Katie Moore,alejandra77@yahoo.com,572.854.6839x3529,Abuja,Female,2024-01-10
+146,Kim Nicholson,bushandrea@hotmail.com,724-943-3340,Port Harcourt,Female,2024-12-22
+147,Thomas Perry,howen@li-moran.com,001-857-877-3731x526,Kano,Female,2026-04-27
+148,Emma Mendez,rruiz@gmail.com,(649)598-1818,Lagos,,2025-12-14
+149,Jennifer Moore,alicia15@gomez.com,+1-228-734-0079x153,Abuja,Female,2025-08-10
+150,Zachary Gutierrez,nlane@sanders-wright.com,(283)714-6827x50102,Abuja,,2026-01-01
+151,Dr. Rebecca Rojas,yperez@brown.com,279-594-9963,Kano,Male,2026-03-20
+152,Donald Webb,stephaniefreeman@yahoo.com,+1-331-642-8886x94142,Kano,,2024-01-02
+153,Sonya Harris,bakerlaura@gomez.org,(518)048-1326x8419,Kano,Male,2026-03-10
+154,,angelaschroeder@meyer.com,215.283.6116x4625,Kano,Male,2023-12-11
+155,Stacie Brooks,sarah80@hotmail.com,(999)079-2863x22832,,Female,2025-05-16
+156,Lindsay Rowe,harold51@hotmail.com,250.535.5718,Lagos,Female,2025-01-03
+157,Nicholas Robinson,donaldreilly@dixon.biz,+1-855-634-1121,Abuja,,2023-09-19
+158,Mary Osborne,wyattlarsen@cameron-trevino.com,(583)520-9770,Port Harcourt,Female,2023-11-30
+159,Sarah Davis,williamsjillian@thomas-tyler.com,+1-781-903-6201,Ibadan,Female,2023-06-15
+160,Justin Madden,dana83@hotmail.com,083.787.0175x7376,Lagos,Male,2025-06-28
+161,Matthew Pacheco,ohinton@gmail.com,244-965-0131,Abuja,Female,2025-10-23
+162,Tiffany Brown,ejackson@allen.org,(057)772-8156x316,Lagos,,2024-04-13
+163,Kara Wolf,alexagrimes@huynh-hale.com,912-759-1306x9108,,Female,2023-11-28
+164,Anne Torres,ychristian@robinson.biz,916.775.6755,,Male,2024-08-31
+165,Margaret Williams,missing_email,(613)396-9681,Port Harcourt,Male,2024-03-21
+166,Laura Duncan,daniellecooper@garcia.com,638-865-7834x87688,Port Harcourt,Female,2023-10-10
+167,Brian Lloyd,ericthomas@smith.com,,Kano,,2025-02-27
+168,,kevinhayes@hotmail.com,001-104-401-6613,Port Harcourt,Male,2025-07-19
+169,Robert Joyce,ethan14@yahoo.com,001-788-850-6643x61385,Port Harcourt,,2023-10-05
+170,Randy Edwards,angelacarrillo@white.com,+1-595-097-6688,Ibadan,,2023-06-28
+171,Katie Guerrero,daniel89@jones.com,+1-100-380-6776x6477,,Female,2025-09-06
+172,Ms. Maria Silva,muellerpatrick@morrow-shannon.info,001-287-631-5885x722,Ibadan,Male,2026-01-09
+173,Jill Lee,ecampbell@hotmail.com,(964)751-4300x4809,Lagos,Female,2023-08-17
+174,Kyle Strickland,jennifer40@hotmail.com,+1-890-815-6753x6149,Ibadan,Male,2023-05-30
+175,,maciaslinda@booker-arnold.biz,+1-090-559-3050x0365,Ibadan,,2025-04-26
+176,Brittany Herrera,coltonharris@harrison-khan.com,155.931.8012x4631,Lagos,Male,2023-11-17
+177,Allison Bartlett,ericajenkins@campbell-potter.info,001-211-830-2222x071,Kano,Male,2025-04-25
+178,Allison Welch,znelson@gmail.com,001-628-672-4374x210,Port Harcourt,Female,2023-06-04
+179,Kyle Macias,jeremy55@martin-harrell.org,671.242.5727,Ibadan,,2023-07-27
+180,David Anderson,hannahdelgado@hotmail.com,888-815-6867x5432,Ibadan,Female,2024-09-25
+181,Courtney Green,kcline@powell.com,976-088-4711x2871,Ibadan,Female,2026-03-03
+182,Michelle Espinoza,ehayes@hotmail.com,+1-947-014-5648x91672,Kano,Female,2025-11-05
+183,Michael Collier,mtaylor@johnson.com,710.731.5680x00655,Lagos,,2024-08-02
+184,Courtney Barnett,njones@taylor.net,921-007-4574x986,Abuja,Female,2023-07-21
+185,Emily Torres,marshcharles@soto-harrell.com,,,Male,2024-06-01
+186,Luke Griffin,frichardson@joseph.com,001-663-403-8770x9485,Ibadan,Male,2025-06-12
+187,Scott Lowe,xtyler@hotmail.com,966-841-3923x831,,Male,2025-06-25
+188,Craig Brewer,llindsey@west-carter.com,736-810-4468x20412,Ibadan,Female,2024-10-10
+189,Elizabeth White,andrew06@yahoo.com,001-139-327-0757x59643,Abuja,Male,2025-07-28
+190,Christina Valdez,christopher47@hotmail.com,,Lagos,Female,2023-07-16
+191,Jeffrey Ortega,philip97@randall.com,665.101.8057x1012,,,2026-01-05
+192,Heather Durham,ahunter@gmail.com,(978)507-9408,Kano,Male,2024-01-29
+193,,charles25@yahoo.com,136-526-0716x88338,Kano,,2026-04-24
+194,Sara Bean,stouternest@hotmail.com,,Port Harcourt,,2023-06-15
+195,Christian Martin,donaldhowell@hotmail.com,643.890.9794,Kano,Female,2024-12-17
+196,Vincent Davis,rstone@gmail.com,(925)595-5284x370,Kano,Female,2024-12-15
+197,Charles Tucker,dstewart@gmail.com,4742454804,Kano,Female,2024-09-28
+198,Kenneth Ellison,cody78@bradshaw-boyd.com,540-875-1990,Port Harcourt,Female,2025-11-12
+199,John Mendez,kellyhayes@gmail.com,(588)217-5741,Lagos,Female,2023-08-10
+200,Lori Andrews,laurablack@yahoo.com,+1-237-396-4544x60300,Ibadan,Male,2025-02-15
