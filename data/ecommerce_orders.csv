@@ -1,0 +1,201 @@
+order_id,customer_id,product_name,quantity,price,total_amount,payment_method,order_date,delivery_city
+1,123,Laptop,4,50000,200000,Card,2025-08-16,Port Harcourt
+2,152,Mouse,3,,,Card,2025-05-22,Kano
+3,148,Tablet,4,25000,100000,Card,2025-10-08,
+4,55,Laptop,3,50000,150000,Cash,2025-10-17,Port Harcourt
+5,88,Headphones,3,10000,30000,Card,2026-04-03,
+6,197,Mouse,5,15000,75000,Card,2025-10-01,
+7,29,Monitor,3,15000,45000,PayPal,2025-12-13,Abuja
+8,161,Keyboard,1,,,Cash,2025-05-27,Kano
+9,116,Phone,2,50000,100000,Transfer,2026-05-14,Abuja
+10,201,Monitor,1,,,PayPal,2025-12-13,Port Harcourt
+11,73,Keyboard,1,10000,10000,Cash,2025-05-23,Abuja
+12,101,Tablet,3,50000,150000,Card,2025-12-10,Port Harcourt
+13,108,Mouse,5,10000,50000,Card,2025-09-24,Port Harcourt
+14,182,Laptop,2,15000,30000,Card,2025-05-18,Port Harcourt
+15,110,Mouse,5,5000,25000,PayPal,2026-01-20,Lagos
+16,172,Keyboard,4,50000,200000,Cash,2026-05-13,
+17,162,Keyboard,4,25000,100000,Transfer,2026-05-13,Kano
+18,26,Monitor,5,5000,25000,PayPal,2026-04-03,Abuja
+19,77,Headphones,5,25000,125000,Cash,2026-03-20,
+20,101,Headphones,1,10000,10000,Card,2025-10-08,Port Harcourt
+21,195,Tablet,5,15000,75000,Card,2025-07-02,Ibadan
+22,53,Tablet,2,10000,20000,PayPal,2026-03-10,
+23,140,Monitor,4,10000,40000,PayPal,2025-10-19,Ibadan
+24,6,Headphones,4,25000,100000,Transfer,2026-04-08,Abuja
+25,101,Tablet,2,5000,10000,Cash,2025-08-18,Port Harcourt
+26,197,Headphones,5,5000,25000,Card,2025-10-02,Lagos
+27,60,Phone,3,,,PayPal,2026-04-14,Lagos
+28,100,Phone,4,25000,100000,Transfer,2025-08-01,
+29,158,Monitor,2,50000,100000,Card,2026-05-02,Lagos
+30,35,Monitor,2,10000,20000,Transfer,2026-04-27,Abuja
+31,86,Keyboard,3,,,Transfer,2025-07-12,Ibadan
+32,208,Keyboard,3,50000,150000,Transfer,2025-12-24,
+33,32,Laptop,5,,,Card,2026-03-20,
+34,50,Keyboard,3,,,PayPal,2026-01-16,Abuja
+35,184,Tablet,2,25000,50000,PayPal,2025-10-28,Lagos
+36,156,Headphones,4,50000,200000,Cash,2026-04-02,Lagos
+37,136,Keyboard,2,,,Transfer,2025-06-08,Ibadan
+38,144,Tablet,5,10000,50000,Transfer,2025-09-23,Port Harcourt
+39,160,Laptop,4,50000,200000,Card,2025-08-29,Lagos
+40,11,Monitor,2,15000,30000,Card,2025-10-22,Lagos
+41,207,Monitor,2,50000,100000,PayPal,2026-01-27,Lagos
+42,210,Monitor,2,25000,50000,Card,2025-10-02,Port Harcourt
+43,61,Phone,3,15000,45000,Cash,2025-12-04,Abuja
+44,173,Phone,4,50000,200000,PayPal,2025-08-30,
+45,93,Mouse,5,10000,50000,Cash,2025-11-30,Ibadan
+46,189,Headphones,4,25000,100000,Cash,2025-07-09,
+47,31,Headphones,5,50000,250000,Transfer,2025-10-24,Abuja
+48,26,Laptop,4,50000,200000,Card,2026-02-25,
+49,89,Laptop,4,50000,200000,Cash,2026-03-05,Lagos
+50,127,Tablet,3,50000,150000,Cash,2025-09-16,Port Harcourt
+51,134,Laptop,2,5000,10000,Cash,2025-07-04,Kano
+52,174,Keyboard,2,15000,30000,Transfer,2025-08-04,Ibadan
+53,110,Laptop,3,10000,30000,Cash,2025-06-04,Port Harcourt
+54,199,Phone,1,25000,25000,Card,2026-01-25,
+55,110,Mouse,2,50000,100000,PayPal,2025-09-24,Lagos
+56,109,Phone,4,15000,60000,Cash,2026-04-13,Kano
+57,64,Keyboard,3,50000,150000,Transfer,2025-12-03,Kano
+58,91,Tablet,1,15000,15000,PayPal,2026-01-06,Lagos
+59,84,Keyboard,4,10000,40000,Card,2025-08-08,Abuja
+60,84,Headphones,3,25000,75000,Transfer,2026-05-14,
+61,17,Laptop,1,15000,15000,Card,2026-01-29,
+62,176,Mouse,2,10000,20000,Transfer,2025-05-20,Ibadan
+63,143,Phone,3,,,PayPal,2025-10-23,Port Harcourt
+64,184,Phone,4,5000,20000,Card,2025-09-03,Port Harcourt
+65,121,Laptop,3,15000,45000,Transfer,2025-05-31,Ibadan
+66,52,Monitor,2,50000,100000,PayPal,2025-08-29,Abuja
+67,95,Laptop,3,50000,150000,Cash,2026-01-09,Abuja
+68,7,Headphones,3,10000,30000,Card,2026-01-01,Port Harcourt
+69,178,Phone,4,10000,40000,Transfer,2026-03-29,
+70,137,Headphones,1,,,Transfer,2025-09-14,Port Harcourt
+71,181,Keyboard,3,50000,150000,Card,2026-04-22,Lagos
+72,146,Phone,1,25000,25000,Card,2025-08-29,
+73,100,Phone,2,10000,20000,Cash,2025-05-18,
+74,209,Laptop,2,,,Cash,2025-08-05,
+75,122,Keyboard,3,50000,150000,PayPal,2025-11-30,Abuja
+76,149,Phone,3,50000,150000,PayPal,2026-02-17,Lagos
+77,85,Laptop,2,50000,100000,Cash,2025-12-29,Ibadan
+78,184,Keyboard,2,,,Cash,2025-10-27,
+79,117,Mouse,2,,,Card,2025-10-10,Lagos
+80,113,Headphones,1,,,PayPal,2025-06-14,Abuja
+81,59,Monitor,3,,,PayPal,2026-05-08,Port Harcourt
+82,39,Headphones,4,10000,40000,PayPal,2026-03-02,Abuja
+83,18,Tablet,3,25000,75000,Cash,2026-04-15,Ibadan
+84,97,Laptop,1,50000,50000,Cash,2026-01-08,Lagos
+85,120,Monitor,1,15000,15000,PayPal,2025-08-03,Abuja
+86,185,Keyboard,5,50000,250000,PayPal,2025-05-29,Abuja
+87,175,Keyboard,3,,,Transfer,2025-10-03,Lagos
+88,156,Laptop,3,5000,15000,PayPal,2025-10-22,Port Harcourt
+89,99,Laptop,2,50000,100000,Card,2025-08-10,Kano
+90,174,Phone,2,10000,20000,Card,2026-02-07,Ibadan
+91,143,Mouse,1,10000,10000,Transfer,2025-07-29,Ibadan
+92,110,Mouse,5,,,Cash,2026-04-20,Lagos
+93,20,Mouse,1,25000,25000,Cash,2025-05-28,Abuja
+94,128,Headphones,5,50000,250000,PayPal,2025-08-12,Lagos
+95,35,Laptop,4,5000,20000,PayPal,2026-01-10,Kano
+96,114,Tablet,1,15000,15000,Cash,2025-12-06,Lagos
+97,29,Phone,4,25000,100000,Cash,2026-01-03,Port Harcourt
+98,46,Keyboard,5,25000,125000,Card,2025-07-12,Ibadan
+99,71,Laptop,4,5000,20000,Cash,2025-05-19,Abuja
+100,205,Laptop,4,10000,40000,Transfer,2025-10-10,Abuja
+101,53,Monitor,3,15000,45000,Cash,2025-05-27,
+102,156,Monitor,3,10000,30000,Cash,2025-05-18,
+103,39,Mouse,5,25000,125000,Cash,2025-10-12,Abuja
+104,140,Phone,1,10000,10000,Cash,2025-07-21,Port Harcourt
+105,152,Mouse,1,50000,50000,Card,2026-04-29,Lagos
+106,132,Phone,3,50000,150000,Card,2025-07-20,
+107,87,Monitor,1,10000,10000,Card,2025-11-12,Port Harcourt
+108,188,Headphones,4,,,Cash,2025-11-30,Ibadan
+109,180,Keyboard,2,5000,10000,Transfer,2025-12-28,Lagos
+110,155,Keyboard,4,15000,60000,PayPal,2026-04-26,Ibadan
+111,9,Monitor,2,5000,10000,Transfer,2025-12-24,Port Harcourt
+112,192,Phone,2,,,PayPal,2025-07-31,Lagos
+113,166,Tablet,3,10000,30000,Card,2026-03-27,Ibadan
+114,125,Mouse,1,15000,15000,Transfer,2026-02-12,Lagos
+115,40,Mouse,1,5000,5000,PayPal,2025-08-17,Kano
+116,41,Monitor,1,5000,5000,Cash,2025-09-22,Kano
+117,29,Tablet,4,15000,60000,Cash,2026-02-03,
+118,32,Monitor,4,10000,40000,Cash,2026-02-04,Kano
+119,77,Tablet,5,,,Transfer,2025-06-18,Ibadan
+120,201,Mouse,5,15000,75000,PayPal,2026-01-21,
+121,194,Phone,4,5000,20000,Cash,2025-07-19,Ibadan
+122,8,Keyboard,5,10000,50000,Transfer,2026-03-05,
+123,131,Monitor,1,25000,25000,Cash,2025-06-08,Kano
+124,85,Mouse,2,25000,50000,Cash,2026-03-18,
+125,82,Headphones,4,50000,200000,PayPal,2026-03-18,Port Harcourt
+126,47,Keyboard,2,,,PayPal,2025-12-20,
+127,49,Monitor,2,50000,100000,Transfer,2026-04-26,Abuja
+128,156,Phone,5,15000,75000,Card,2026-04-16,Port Harcourt
+129,105,Monitor,2,50000,100000,Transfer,2025-10-23,Abuja
+130,180,Mouse,4,5000,20000,PayPal,2026-02-06,Kano
+131,173,Phone,3,50000,150000,PayPal,2026-02-24,Ibadan
+132,46,Tablet,4,10000,40000,Card,2026-03-05,Lagos
+133,76,Headphones,3,10000,30000,PayPal,2025-09-16,Lagos
+134,69,Phone,1,10000,10000,PayPal,2026-01-28,Abuja
+135,41,Tablet,4,15000,60000,Transfer,2025-05-29,Kano
+136,80,Monitor,4,,,Transfer,2026-01-13,Abuja
+137,166,Phone,4,5000,20000,Transfer,2026-01-01,Port Harcourt
+138,194,Laptop,4,,,Transfer,2025-07-15,
+139,148,Keyboard,3,50000,150000,Transfer,2026-03-14,Kano
+140,92,Laptop,4,15000,60000,Transfer,2025-07-14,Lagos
+141,173,Monitor,1,,,PayPal,2025-09-17,Kano
+142,113,Mouse,1,15000,15000,PayPal,2025-05-17,
+143,75,Mouse,1,15000,15000,Cash,2026-02-06,Abuja
+144,70,Keyboard,3,,,Cash,2025-06-04,
+145,159,Tablet,3,25000,75000,Transfer,2025-12-23,
+146,81,Laptop,5,50000,250000,PayPal,2025-09-22,Port Harcourt
+147,123,Headphones,1,5000,5000,Card,2025-10-03,Abuja
+148,90,Tablet,3,,,Cash,2026-03-03,
+149,80,Tablet,2,25000,50000,PayPal,2025-06-15,Lagos
+150,150,Mouse,5,5000,25000,Card,2025-07-12,Port Harcourt
+151,201,Mouse,1,15000,15000,Card,2025-09-10,Ibadan
+152,109,Mouse,2,10000,20000,Cash,2026-02-20,
+153,84,Keyboard,5,25000,125000,Card,2025-10-26,
+154,76,Keyboard,2,10000,20000,Transfer,2025-08-11,Ibadan
+155,170,Tablet,4,5000,20000,Transfer,2025-10-11,
+156,177,Headphones,1,10000,10000,Card,2025-08-30,Kano
+157,200,Keyboard,3,5000,15000,Card,2025-08-27,Kano
+158,107,Keyboard,3,10000,30000,Cash,2026-02-19,Ibadan
+159,133,Keyboard,4,,,Card,2025-12-27,Abuja
+160,81,Keyboard,3,50000,150000,Transfer,2025-09-09,Abuja
+161,118,Monitor,3,,,Transfer,2026-03-09,Kano
+162,110,Laptop,4,25000,100000,Transfer,2026-02-17,Abuja
+163,42,Mouse,4,15000,60000,PayPal,2025-11-11,Ibadan
+164,19,Headphones,3,15000,45000,Transfer,2025-12-28,Port Harcourt
+165,84,Mouse,2,5000,10000,PayPal,2025-05-24,
+166,115,Mouse,1,50000,50000,Cash,2025-09-02,Ibadan
+167,20,Headphones,1,25000,25000,Cash,2025-07-20,Lagos
+168,107,Laptop,2,5000,10000,Card,2026-01-08,Kano
+169,36,Monitor,5,15000,75000,Card,2026-01-09,Abuja
+170,142,Mouse,2,50000,100000,PayPal,2025-10-15,
+171,5,Monitor,2,50000,100000,PayPal,2025-09-24,Abuja
+172,97,Monitor,5,50000,250000,PayPal,2026-03-11,Kano
+173,144,Headphones,1,5000,5000,Cash,2026-01-07,
+174,191,Laptop,1,25000,25000,PayPal,2025-10-01,Abuja
+175,158,Tablet,5,25000,125000,Cash,2025-05-18,Ibadan
+176,123,Phone,2,15000,30000,PayPal,2026-03-11,Ibadan
+177,37,Tablet,2,25000,50000,PayPal,2025-05-19,Port Harcourt
+178,109,Headphones,1,15000,15000,PayPal,2025-10-24,Kano
+179,82,Keyboard,3,25000,75000,PayPal,2025-07-14,Kano
+180,190,Phone,5,,,Transfer,2025-08-24,
+181,133,Mouse,2,15000,30000,PayPal,2025-05-18,Ibadan
+182,36,Keyboard,5,5000,25000,Cash,2026-03-07,Lagos
+183,111,Headphones,1,15000,15000,Transfer,2025-09-07,Port Harcourt
+184,101,Monitor,3,10000,30000,Transfer,2025-10-15,Abuja
+185,97,Monitor,4,10000,40000,Transfer,2025-10-23,Ibadan
+186,11,Phone,4,,,PayPal,2025-11-25,Ibadan
+187,163,Laptop,4,10000,40000,Card,2025-05-21,Port Harcourt
+188,147,Tablet,1,25000,25000,Transfer,2025-08-13,Ibadan
+189,126,Mouse,5,5000,25000,PayPal,2025-09-11,
+190,153,Monitor,4,50000,200000,Cash,2025-07-23,Port Harcourt
+191,176,Monitor,1,15000,15000,Cash,2025-11-30,Port Harcourt
+192,68,Laptop,1,10000,10000,Card,2025-06-03,Abuja
+193,37,Laptop,2,10000,20000,PayPal,2025-12-12,
+194,167,Mouse,5,25000,125000,Transfer,2025-07-15,Port Harcourt
+195,113,Keyboard,2,,,Cash,2025-06-24,Ibadan
+196,36,Headphones,1,50000,50000,Card,2026-05-02,
+197,200,Monitor,1,15000,15000,Card,2025-06-02,Abuja
+198,97,Phone,2,5000,10000,Card,2025-08-28,Port Harcourt
+199,183,Headphones,3,25000,75000,Card,2026-04-27,Port Harcourt
+200,136,Tablet,1,50000,50000,Transfer,2025-08-20,Abuja
